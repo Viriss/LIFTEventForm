@@ -1,0 +1,6 @@
+C:\Users\andrew\Documents\LIFTEventForm\LIFTEventForm\bin\LIFTEventForm.dll.config
+C:\Users\andrew\Documents\LIFTEventForm\LIFTEventForm\bin\LIFTEventForm.dll
+C:\Users\andrew\Documents\LIFTEventForm\LIFTEventForm\bin\LIFTEventForm.pdb
+C:\Users\andrew\Documents\LIFTEventForm\LIFTEventForm\obj\Debug\LIFTEventForm.csprojResolveAssemblyReference.cache
+C:\Users\andrew\Documents\LIFTEventForm\LIFTEventForm\obj\Debug\LIFTEventForm.dll
+C:\Users\andrew\Documents\LIFTEventForm\LIFTEventForm\obj\Debug\LIFTEventForm.pdb

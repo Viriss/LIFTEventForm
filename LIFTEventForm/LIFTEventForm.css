@@ -1,0 +1,13 @@
+﻿body {
+    font-family: Calibri;
+
+}
+
+.Editor { border-collapse: collapse; border-top: solid 2px blue; margin-bottom: 1px; }
+.Editor thead th {background-color: skyblue; font-weight: bold;}
+.Editor tbody td { background-color: #ddd; padding: 2px; border-top: solid 1px #aaa; border-bottom: solid 1px #aaa; }
+.Editor tbody input { border: none; margin: 1px; }
+.Editor tbody select { border: none; margin: 1px; }
+.Button { padding: 4px 12px; min-width: 100px; min-height: 24px; }
+
+.Editor tbody tr.Edited td { background-color: palegreen !important; }
